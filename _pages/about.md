@@ -11,6 +11,11 @@ I am an Assistant Professor (tenure-track) at the Department of Computer Science
 
 With a *Ph.D. in Computer Science and Mathematics*, I lead and contribute to various research projects, including a European initiative on computational methods for cultural heritage. As an Editorial Board member of the *International Journal of Intelligent Systems* and organizer of scientific events, I'm active in both research and teaching, guiding Ph.D. students and reviewing for top-tier venues. I'm also a member of *IEEE* and other scientific communities.
 
+# Current Teaching
+* Deep Learning, M.Sc. in Data Science
+* Computational Intelligence, B.Sc. in Computer Science
+* Computer Science Laboratory, B.Sc. Programs in Computer Science (both Bari and Taranto)
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
