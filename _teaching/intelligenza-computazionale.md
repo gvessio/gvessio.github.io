@@ -2,7 +2,7 @@
 title: "Intelligenza Computazionale"
 collection: teaching
 type: "B.Sc. in Computer Science"
-# permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/intelligenza-computazionale
 venue: "University of Bari Aldo Moro, Department of Computer Science"
 # date: "2023 - ongoing"
 location: "Bari, Italy"
