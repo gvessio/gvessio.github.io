@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Gennaro Vessio"
 title_separator          : "-"
 name                     : &name "Gennaro Vessio"
-description              : &description "Hi there!"
+description              : &description "Hello! I’m an Assistant Professor with a passion for machine learning, deep learning, and computer vision, applying these tools to fields like e-health, drone vision, and digital humanities. If you're interested in exploring algorithms, joining a project, or discovering how we teach computers to ‘see’ and ‘think,’ you’re in the right place!"
 url                      : https://gvessio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gvessio/gvessio.github.io"
@@ -25,31 +25,31 @@ author:
   name             : "Gennaro Vessio"
   pronouns         : # example: "she/her"  
   bio              : "Hello folks!"
-  location         : "Earth"
+  location         : "Bari, Italy"
   employer         : "University of Bari Aldo Moro"
   uri              : # URL
   email            : "gennaro.vessio@uniba.it" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Vessio%2C+G"
   googlescholar    : "https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-0883-2691"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Gennaro-Vessio"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56407135000"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/gvessio"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "gennaro-vessio"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
