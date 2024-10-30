@@ -4,7 +4,7 @@ collection: teaching
 type: "B.Sc. in Computer Science"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "University of Bari Aldo Moro, Department of Computer Science"
-date: "2023 - ongoing"
+# date: "2023 - ongoing"
 location: "Bari, Italy"
 ---
 

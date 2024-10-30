@@ -4,7 +4,7 @@ collection: teaching
 type: "M.Sc. in Data Science"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "University of Bari Aldo Moro, Department of Computer Science"
-date: "2021 - ongoing"
+# date: "2021 - ongoing"
 location: "Bari, Italy"
 ---
 
