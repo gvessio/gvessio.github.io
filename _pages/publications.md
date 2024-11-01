@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-layout: page  # This could vary based on your site's layout configuration
+layout: archive
 permalink: /publications/ 
 author_profile: true
 ---
