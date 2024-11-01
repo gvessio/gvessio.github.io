@@ -34,16 +34,15 @@ Teaching is a big part of what I do! Here are my current courses:
 
 > ***RoWeeder: Unsupervised Weed Mapping through Crop-Row Detection***
 > 
-> ![Publication Image](images\roweeder.png)
+> <img src="images\roweeder.png" alt="RoWeeder Image" height="100"/>
 > 
 > **Authors:** Pasquale De Marinis, Gennaro Vessio, Giovanna Castellano  
 > **Published in:** *CVPPA Workshop at ECCV 2024*  
 > 
 > **Summary:** RoWeeder is an unsupervised framework for weed mapping in precision agriculture, using crop-row detection to train a deep learning model that distinguishes crops from weeds. It enables real-time, drone-based weed management across large fields.
 > 
-> [📄 Paper](https://arxiv.org/abs/2410.04983) | [🔗 Code](https://github.com/pasqualedem/RoWeeder)
-
-
+> [📄 Paper](https://arxiv.org/abs/2410.04983)
+> [💻 Code](https://github.com/pasqualedem/RoWeeder)
 
 For a full list of my publications, please visit my [Google Scholar profile](https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl).
 
