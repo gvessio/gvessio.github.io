@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 📚 Selected Publications by Research Area
-
-For a full list of my publications, please visit my [Google Scholar profile](https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl).
+Here is a selection of my publications, organized by research area. For a complete list, please visit my [Google Scholar profile](https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl).
 
 ## Digital Humanities and Cultural Heritage
 
