@@ -34,7 +34,7 @@ Teaching is a big part of what I do! Here are my current courses:
 
 > **RoWeeder: Unsupervised Weed Mapping through Crop-Row Detection**
 > 
-> <img src="images\roweeder.png" alt="RoWeeder Image" height="25px"/>
+> <img src="images\roweeder.png" alt="RoWeeder Image" style="height:100px; width:auto;">
 > 
 > **Authors:** Pasquale De Marinis, Gennaro Vessio, Giovanna Castellano  
 > **Published in:** *CVPPA Workshop at ECCV 2024*  
