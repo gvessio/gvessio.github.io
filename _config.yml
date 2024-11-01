@@ -31,7 +31,7 @@ author:
   email            : "gennaro.vessio@uniba.it" 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Vessio%2C+G"
+  # arxiv            : "https://arxiv.org/search/?searchtype=author&query=Vessio%2C+G"
   googlescholar    : "https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-0883-2691"
