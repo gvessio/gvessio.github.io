@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-👋 ***Welcome!*** I am an ***Assistant Professor (tenure-track)*** at the Department of Computer Science, University of Bari Aldo Moro. I specialize in ***machine learning*** 🤖, ***deep learning*** 🧠, and ***computer vision*** 👁️, with applications in fields like ***e-health*** 🏥, ***drone vision*** 🚁, and ***digital humanities*** 🖼️. During the workday, if you don't spot me with my legs stretched out in my office on the sixth floor, I'm probably down in the [CILAB lab](https://sites.google.com/site/cilabuniba/home) on the fourth floor, where the real magic happens—or possibly in Professor [Giovanna Castellano](https://sites.google.com/site/cilabuniba/people/giovanna-castellano)'s office, stealing her *taralli* (a classic Italian snack 🥨) and handing them out to anyone who crosses my path!
+👋 ***Welcome!*** I am an ***Assistant Professor (tenure-track)*** at the Department of Computer Science, University of Bari Aldo Moro, where I specialize in ***machine learning*** 🤖, ***deep learning*** 🧠, and ***computer vision*** 👁️, with applications in fields like ***e-health*** 🏥, ***drone vision*** 🚁, and ***digital humanities*** 🖼️. During the workday, if you don't spot me with my legs stretched out in my office on the sixth floor, I'm probably down in the [CILAB lab](https://sites.google.com/site/cilabuniba/home) on the fourth floor, where the real magic happens—or possibly in Professor [Giovanna Castellano](https://sites.google.com/site/cilabuniba/people/giovanna-castellano)'s office, stealing her *taralli* (a classic Italian snack 🥨) and handing them out to anyone who crosses my path!
 
-With a *Ph.D. in Computer Science and Mathematics* 🧑‍🎓, I'm deeply involved in advancing research, leading and contributing to projects, including a recently concluded European initiative focused on computational methods for cultural heritage. I'm an Editorial Board member of the *International Journal of Intelligent Systems* and regularly organize scientific events. My role also involves mentoring Ph.D. students, reviewing for top-tier venues, and serving on program committees for several conferences. I'm also a member of *IEEE* and other scientific communities.
+With a *Ph.D. in Computer Science and Mathematics* 🧑‍🎓, I'm deeply involved in advancing research, leading and contributing to research projects, including a recently concluded European initiative focused on computational methods for cultural heritage. I'm an Editorial Board member of the *International Journal of Intelligent Systems* and regularly organize scientific events. My role also involves mentoring Ph.D. students, reviewing for top-tier venues, and serving on program committees for several conferences. I'm also a member of *IEEE* and other scientific communities.
 
 ## 🚀 Current Research Projects
 
@@ -31,7 +31,6 @@ Teaching is a big part of what I do! Here are my current courses:
 ## 📝 Recent Publications
 
 For a full list of my publications, please visit my [Google Scholar profile](https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl).
-
 
 
 
