@@ -7,14 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor (tenure-track) at the Department of Computer Science, University of Bari Aldo Moro, where I focus on ***machine learning***, ***deep learning***, and ***computer vision***, applying these technologies to fields like ***e-health***, ***drone vision***, and ***digital humanities***. During the workday, if you don’t spot me with my legs stretched out in my office on the sixth floor, I’m probably down in the [CILAB lab](https://sites.google.com/site/cilabuniba/home) on the fourth floor, where the real magic happens—or possibly in Professor [Giovanna Castellano](https://sites.google.com/site/cilabuniba/people/giovanna-castellano)'s office, stealing her *taralli* (a classic Italian snack) and handing them out to anyone who crosses my path!
+👋 ***Welcome!*** I am an ***Assistant Professor (tenure-track)*** at the Department of Computer Science, University of Bari Aldo Moro. I specialize in ***machine learning*** 🤖, ***deep learning*** 🧠, and ***computer vision*** 👁️, with applications in fields like ***e-health*** 🏥, ***drone vision*** 🚁, and ***digital humanities*** 🖼️. During the workday, if you don't spot me with my legs stretched out in my office on the sixth floor, I'm probably down in the [CILAB lab](https://sites.google.com/site/cilabuniba/home) on the fourth floor, where the real magic happens—or possibly in Professor [Giovanna Castellano](https://sites.google.com/site/cilabuniba/people/giovanna-castellano)'s office, stealing her *taralli* (a classic Italian snack 🥨) and handing them out to anyone who crosses my path!
 
-With a *Ph.D. in Computer Science and Mathematics*, I lead and contribute to various research projects, including a European initiative on computational methods for cultural heritage. As an Editorial Board member of the *International Journal of Intelligent Systems* and organizer of scientific events, I'm active in both research and teaching, guiding Ph.D. students and reviewing for top-tier venues. I'm also a member of *IEEE* and other scientific communities.
+With a *Ph.D. in Computer Science and Mathematics* 🧑‍🎓, I'm deeply involved in advancing research, leading and contributing to projects, including a recently concluded European initiative focused on computational methods for cultural heritage. I'm an Editorial Board member of the *International Journal of Intelligent Systems* and regularly organize scientific events. My role also involves mentoring Ph.D. students, reviewing for top-tier venues, and serving on program committees for several conferences. I'm also a member of *IEEE* and other scientific communities.
 
-# Current Teaching
-* Deep Learning, M.Sc. in Data Science
-* Computational Intelligence, B.Sc. in Computer Science
-* Computer Science Laboratory, B.Sc. Programs in Computer Science (both Bari and Taranto)
+### 🚀 Current Research Projects
+
+> ***🔔 Exciting News!***  
+> A new collaboration with the Italian Ministry of Transport is about to take flight! I'll be leading a project focused on using drones to enhance roadside assistance 🛣️, aiming to revolutionize emergency response on the road. Stay tuned for updates!
+
+### 📚 Current Teaching
+Teaching is a big part of what I do! Here are my current courses:
+* ***Deep Learning***, M.Sc. in Data Science 🧠
+  
+  Deep learning is still more like alchemy than chemistry—a blend of intuition, experimentation, and a bit of magic—but it's precisely this "alchemy" that powers AI as the transformative technology it is today. In this course, students dive into both the theoretical foundations and the hands-on applications of deep learning, exploring how neural networks and advanced architectures drive innovation across industries. 
+* ***Computational Intelligence***, B.Sc. in Computer Science 🤖
+
+  This course explores the development of intelligent systems capable of adapting, learning from experience, and solving complex problems—essentially, systems that can perform tasks requiring human-like intelligence. Co-taught with Professor Corrado Mencar, my focus is on foundational neural networks, providing students with the basics of machine learning and its applications.
+* ***Computer Science Laboratory***, B.Sc. Programs in Computer Science (both Bari and Taranto) 💻
+
+  The course bridges the gap between programming theory and practical software engineering skills. It emphasizes coding fundamentals, allowing students to move from theory into practical application, building a foundation essential for advanced studies and industry practice.
+
+### 📝 Recent Publications
+
+For a full list of my publications, please visit my [Google Scholar profile](https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl).
+
+
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
