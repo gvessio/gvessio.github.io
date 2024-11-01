@@ -55,5 +55,3 @@ Teaching is a big part of what I do! Here are my current courses:
 > 
 > <a href="https://arxiv.org/abs/2410.04983" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 > <a href="https://github.com/pasqualedem/RoWeeder" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
-
-For a full list of my publications, please visit my [Google Scholar profile](https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl).
