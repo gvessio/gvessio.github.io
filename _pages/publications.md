@@ -32,7 +32,7 @@ For a complete list, please visit my [Google Scholar profile](https://scholar.go
 
 > **MLOps: A Taxonomy and a Methodology**
 > 
-> <img src="/images/mlops.jpg" alt="MLOPs Image" style="height:200px; width:auto;">
+> <img src="/images/mlops.png" alt="MLOPs Image" style="height:200px; width:auto;">
 > 
 > **Authors:** Matteo Testi et al.    
 > **Published in:** *IEEE Access*, 2022  
