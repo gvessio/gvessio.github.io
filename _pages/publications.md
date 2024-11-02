@@ -7,13 +7,13 @@ author_profile: true
 
 Here is a selection of my publications, organized by research area. For a complete list, please visit my [Google Scholar profile](https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl).
 
-## 🎨 Digital Humanities and Cultural Heritage
+## Digital Humanities and Cultural Heritage
 
-> **A Deep Learning Approach to Clustering Visual Arts**
+>🎨 **A Deep Learning Approach to Clustering Visual Arts**
 > 
-> <img src="images/delius.png" alt="DELIUS Image" style="height:200px; width:auto;">
+> <img src="/images/delius.png" alt="DELIUS Image" style="height:200px; width:auto;">
 > 
-> **Authors:** Giovanna Castellano, Gennaro Vessio
+> **Authors:** Giovanna Castellano, Gennaro Vessio  
 > **Published in:** *IJCV*, 2024  
 > 
 > **Summary:** We propose a deep learning-based approach for clustering artworks. It uses a pre-trained convolutional network to extract features and a deep embedded clustering model to map these features into clusters. This method effectively identifies patterns in visual art, aiding tasks like visual link retrieval and historical knowledge discovery in painting datasets.
