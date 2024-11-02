@@ -5,9 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here is a selection of my publications, organized by research area. For a complete list, please visit my [Google Scholar profile](https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl).
+Here is a selection of my publications, organized by research area:
 
-# 🎨 Digital Humanities and Cultural Heritage
+- [🎨 Digital Humanities and Cultural Heritage](#digital-humanities-and-cultural-heritage)
+- [🚁 Drone Vision](#drone-vision)
+- [🏥 e-Health](#e-health)
+
+For a complete list, please visit my [Google Scholar profile](https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl).
+
+## 🎨 Digital Humanities and Cultural Heritage
 ---
 
 > **A Deep Learning Approach to Clustering Visual Arts**
@@ -34,7 +40,7 @@ Here is a selection of my publications, organized by research area. For a comple
 > <a href="https://www.sciencedirect.com/science/article/pii/S0950705122004105" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 > <a href="https://zenodo.org/records/6337958" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
 
-# 🚁 Drone Vision
+## 🚁 Drone Vision
 ---
 
 > **Weed mapping in multispectral drone imagery using lightweight vision transformers**
@@ -61,7 +67,7 @@ Here is a selection of my publications, organized by research area. For a comple
 > <a href="https://arxiv.org/abs/2301.04937" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 > <a href="https://github.com/evgenivs/crowd_flow_detection_drones" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
 
-# 🏥 e-Health
+## 🏥 e-Health
 ---
 
 > **Automated detection of Alzheimer’s disease: a multi-modal approach with 3D MRI and amyloid PET**
