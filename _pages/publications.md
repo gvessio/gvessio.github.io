@@ -7,11 +7,39 @@ author_profile: true
 
 Here is a selection of my publications, organized by research area:
 
+- [🧠 General](#general)
 - [🎨 Digital Humanities](#digital-humanities)
 - [🚁 Drone Vision](#drone-vision)
 - [🏥 e-Health](#e-health)
+<!-- - [🌐 Miscellaneous](#misc) -->
 
 For a complete list, please visit my [Google Scholar profile](https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl).
+
+<a name="general"></a>
+## 🧠 General
+
+> **PLENARY: Explaining black-box models in natural language through fuzzy linguistic summaries**
+> 
+> <img src="/images/plenary.jpg" alt="PLENARY Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Katarzyna Kaczmarek-Majer et al.    
+> **Published in:** *Inf Sci*, 2022  
+> 
+> **Summary:** PLENARY is an explainable AI approach that translates SHAP model explanations into natural language using fuzzy linguistic summaries. Applied to mental health data, it improves understanding by turning complex model outputs into high-level, interpretable insights.
+> 
+> <a href="https://www.sciencedirect.com/science/article/pii/S0020025522011318" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
+> <a href="https://github.com/ITPsychiatry/plenary" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+
+> **MLOps: A Taxonomy and a Methodology**
+> 
+> <img src="/images/mlops.jpg" alt="MLOPs Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Matteo Testi et al.    
+> **Published in:** *IEEE Access*, 2022  
+> 
+> **Summary:** This paper reviews MLOps literature, proposes a taxonomy, and introduces a ten-step pipeline to streamline ML deployment in industry, aiming to standardize practices for effective ML adoption.
+> 
+> <a href="https://ieeexplore.ieee.org/document/9792270" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 
 <a name="digital-humanities"></a>
 ## 🎨 Digital Humanities
