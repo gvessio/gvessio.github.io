@@ -60,3 +60,30 @@ Here is a selection of my publications, organized by research area. For a comple
 > 
 > <a href="https://arxiv.org/abs/2301.04937" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 > <a href="https://github.com/evgenivs/crowd_flow_detection_drones" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+
+# 🏥 e-Health
+---
+
+> **Automated detection of Alzheimer’s disease: a multi-modal approach with 3D MRI and amyloid PET**
+> 
+> <img src="/images/scirep.png" alt="SciRep Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Giovanna Castellano, Andrea Esposito, Eufemia Lella, Graziano Montanaro, Gennaro Vessio  
+> **Published in:** *Sci Rep*, 2024  
+> 
+> **Summary:** We present a multi-modal deep learning approach for Alzheimer's diagnosis, combining 3D MRI and amyloid PET scans to outperform single-modality models. Achieving top results on the OASIS-3 cohort, the model also highlights key brain regions linked to AD, aiding disease understanding.
+> 
+> <a href="https://www.nature.com/articles/s41598-024-56001-9" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
+> <a href="https://github.com/montanarograziano/Multimodal-approach-for-AD" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+
+> **Forecasting and what-if analysis of new positive COVID-19 cases during the first three waves in Italy**
+> 
+> <img src="/images/mbec.png" alt="MBEC Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Serena De Ruvo, Gianvito Pio, Gennaro Vessio, Vincenzo Volpe  
+> **Published in:** *MBEC*, 2023  
+> 
+> **Summary:** This study combines epidemiological, mobility, and restriction data with machine learning to predict COVID-19 cases in Italy during the first three pandemic waves. The model accurately forecasts new cases, achieving a WAPE of 5.75% nationally, and supports what-if analyses, suggesting targeted restrictions are more effective than total lockdowns.
+> 
+> <a href="https://www.nature.com/articles/s41598-024-56001-9" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
+> <a href="https://github.com/montanarograziano/Multimodal-approach-for-AD" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
