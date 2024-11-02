@@ -37,7 +37,7 @@ Here is a selection of my publications, organized by research area. For a comple
 
 > **Weed mapping in multispectral drone imagery using lightweight vision transformers**
 > 
-> <img src="/images/splitlawin.jpg.jpg" alt="SplitLawin Image" style="height:200px; width:auto;">
+> <img src="/images/splitlawin.jpg" alt="SplitLawin Image" style="height:200px; width:auto;">
 > 
 > **Authors:** Giovanna Castellano, Pasquale De Marinis, Gennaro Vessio  
 > **Published in:** *Neurocomputing*, 2023  
@@ -49,7 +49,7 @@ Here is a selection of my publications, organized by research area. For a comple
 
 > **Density-based clustering with fully-convolutional networks for crowd flow detection from drones**
 > 
-> <img src="/images/neurocom.jpg.jpg.jpg" alt="Density Image" style="height:200px; width:auto;">
+> <img src="/images/neurocom.jpg" alt="Density Image" style="height:200px; width:auto;">
 > 
 > **Authors:** Giovanna Castellano, Eugenio Cotardo, Corrado Mencar, Gennaro Vessio  
 > **Published in:** *Neurocomputing*, 2023  
