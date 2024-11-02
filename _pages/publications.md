@@ -11,9 +11,9 @@ Here is a selection of my publications, organized by research area. For a comple
 
 > **A Deep Learning Approach to Clustering Visual Arts**
 > 
-> <img src="images\delius.png" alt="DELIUS Image" style="height:250px; width:auto;">
+> <img src="images\delius.jpg" alt="DELIUS Image" style="height:200px; width:auto;">
 > 
-> **Authors:** Gennaro Vessio, Giovanna Castellano  
+> **Authors:** Giovanna Castellano, Gennaro Vessio
 > **Published in:** *IJCV*, 2024  
 > 
 > **Summary:** We propose a deep learning-based approach for clustering artworks. It uses a pre-trained convolutional network to extract features and a deep embedded clustering model to map these features into clusters. This method effectively identifies patterns in visual art, aiding tasks like visual link retrieval and historical knowledge discovery in painting datasets.
