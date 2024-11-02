@@ -7,7 +7,8 @@ author_profile: true
 
 Here is a selection of my publications, organized by research area. For a complete list, please visit my [Google Scholar profile](https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl).
 
-## 🎨 Digital Humanities and Cultural Heritage
+# 🎨 Digital Humanities and Cultural Heritage
+---
 
 > **A Deep Learning Approach to Clustering Visual Arts**
 > 
@@ -33,7 +34,8 @@ Here is a selection of my publications, organized by research area. For a comple
 > <a href="https://www.sciencedirect.com/science/article/pii/S0950705122004105" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 > <a href="https://zenodo.org/records/6337958" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
 
-## 🚁 Drone Vision
+# 🚁 Drone Vision
+---
 
 > **Weed mapping in multispectral drone imagery using lightweight vision transformers**
 > 
