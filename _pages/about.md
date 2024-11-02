@@ -20,7 +20,7 @@ With a *Ph.D. in Computer Science and Mathematics*, I'm deeply involved in advan
 Teaching is a big part of what I do! Here are my current courses:
 * 🧠 ***Deep Learning***, M.Sc. in Data Science
   
-  Deep learning is still more like alchemy than chemistry—a blend of intuition, experimentation, and a bit of magic—but it's precisely this "alchemy" that powers AI as the transformative technology it is today. In this course, students dive into both the theoretical foundations and the hands-on applications of deep learning, exploring how neural networks and advanced architectures drive innovation across industries. 
+  Deep learning is still more like alchemy than chemistry—a blend of intuition, experimentation, and a bit of magic—but it's precisely this "alchemy" that powers AI as the transformative technology it is today. In this course, students dive into both the theoretical foundations and the hands-on applications of deep learning, exploring how neural networks and advanced architectures drive innovation across fields. 
 
 * 🤖 ***Computational Intelligence***, B.Sc. in Computer Science
 

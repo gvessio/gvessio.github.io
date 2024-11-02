@@ -7,13 +7,13 @@ author_profile: true
 
 Here is a selection of my publications, organized by research area:
 
-- [🎨 Digital Humanities and Cultural Heritage](#digital-humanities-and-cultural-heritage)
+- [🎨 Digital Humanities](#digital-humanities)
 - [🚁 Drone Vision](#drone-vision)
 - [🏥 e-Health](#e-health)
 
 For a complete list, please visit my [Google Scholar profile](https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl).
 
-## 🎨 Digital Humanities and Cultural Heritage
+## <a name="digital-humanities"></a> 🎨 Digital Humanities
 ---
 
 > **A Deep Learning Approach to Clustering Visual Arts**
@@ -38,9 +38,9 @@ For a complete list, please visit my [Google Scholar profile](https://scholar.go
 > **Summary:** ArtGraph is a knowledge graph that enriches fine art analysis by linking data from WikiArt and DBpedia. It supports knowledge discovery and enables a new method for fine art classification, where ArtGraph embeddings enhance deep learning models, bridging Humanities and Computer Science.
 > 
 > <a href="https://www.sciencedirect.com/science/article/pii/S0950705122004105" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
-> <a href="https://zenodo.org/records/6337958" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+> <a href="https://zenodo.org/records/6337958" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Dataset & Code</a>
 
-## 🚁 Drone Vision
+## <a name="drone-vision"></a> 🚁 Drone Vision
 ---
 
 > **Weed mapping in multispectral drone imagery using lightweight vision transformers**
@@ -67,7 +67,7 @@ For a complete list, please visit my [Google Scholar profile](https://scholar.go
 > <a href="https://arxiv.org/abs/2301.04937" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 > <a href="https://github.com/evgenivs/crowd_flow_detection_drones" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
 
-## 🏥 e-Health
+## <a name="e-health"></a> 🏥 e-Health
 ---
 
 > **Automated detection of Alzheimer’s disease: a multi-modal approach with 3D MRI and amyloid PET**
@@ -91,5 +91,5 @@ For a complete list, please visit my [Google Scholar profile](https://scholar.go
 > 
 > **Summary:** This study combines epidemiological, mobility, and restriction data with machine learning to predict COVID-19 cases in Italy during the first three pandemic waves. The model accurately forecasts new cases, achieving a WAPE of 5.75% nationally, and supports what-if analyses, suggesting targeted restrictions are more effective than total lockdowns.
 > 
-> <a href="https://www.nature.com/articles/s41598-024-56001-9" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
-> <a href="https://github.com/montanarograziano/Multimodal-approach-for-AD" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+> <a href="https://link.springer.com/article/10.1007/s11517-023-02831-0" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
+<!-- > <a href="https://github.com/montanarograziano/Multimodal-approach-for-AD" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a> -->
