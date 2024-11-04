@@ -25,7 +25,7 @@ For a complete list, please visit my [Google Scholar profile](https://scholar.go
 > **Authors:** Katarzyna Kaczmarek-Majer et al.    
 > **Published in:** *Inf Sci*, 2022  
 > 
-> **Summary:** PLENARY is an explainable AI approach that translates SHAP model explanations into natural language using fuzzy linguistic summaries. Applied to mental health data, it improves understanding by turning complex model outputs into high-level, interpretable insights.
+> **Summary:** PLENARY is an explainable AI approach that uses fuzzy linguistic summaries to translate model explanations into natural language, making predictive model outputs more understandable.
 > 
 > <a href="https://www.sciencedirect.com/science/article/pii/S0020025522011318" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 > <a href="https://github.com/ITPsychiatry/plenary" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
