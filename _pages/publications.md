@@ -64,7 +64,7 @@ For a complete list, please visit my [Google Scholar profile](https://scholar.go
 > **Authors:** Giovanna Castellano, Vincenzo Digeno, Giovanni Sansaro, Gennaro Vessio  
 > **Published in:** *KBS*, 2022  
 > 
-> **Summary:** ArtGraph is a knowledge graph that enriches fine art analysis by linking data from WikiArt and DBpedia. It supports knowledge discovery and enables a new method for fine art classification, where ArtGraph embeddings enhance deep learning models, bridging Humanities and Computer Science.
+> **Summary:** We present ArtGraph, a knowledge graph that enriches fine art analysis by linking data from WikiArt and DBpedia. It supports knowledge discovery and enables a new method for fine art classification, where ArtGraph embeddings enhance deep learning models, bridging Humanities and Computer Science.
 > 
 > <a href="https://www.sciencedirect.com/science/article/pii/S0950705122004105" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 > <a href="https://zenodo.org/records/6337958" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Dataset & Code</a>
@@ -101,7 +101,7 @@ For a complete list, please visit my [Google Scholar profile](https://scholar.go
 ## 🏥 e-Health
 ---
 
-> **Automated detection of Alzheimer’s disease: a multi-modal approach with 3D MRI and amyloid PET**
+> **Automated detection of Alzheimer's disease: a multi-modal approach with 3D MRI and amyloid PET**
 > 
 > <img src="/images/scirep.png" alt="SciRep Image" style="height:200px; width:auto;">
 > 
