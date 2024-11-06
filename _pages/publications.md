@@ -11,7 +11,7 @@ Here is a selection of my publications, organized by research area:
 - [🎨 Digital Humanities](#digital-humanities)
 - [🚁 Drone Vision](#drone-vision)
 - [🏥 e-Health](#e-health)
-<!-- - [🌐 Miscellaneous](#misc) -->
+- [🌐 Miscellaneous](#misc)
 
 For a complete list, please visit my [Google Scholar profile](https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl).
 
@@ -22,7 +22,7 @@ For a complete list, please visit my [Google Scholar profile](https://scholar.go
 > 
 > <img src="/images/plenary.jpg" alt="PLENARY Image" style="height:200px; width:auto;">
 > 
-> **Authors:** Katarzyna Kaczmarek-Majer et al.    
+> **Authors:** Katarzyna Kaczmarek-Majer, Gabriella Casalino, Giovanna Castellano, Monika Dominiak, Olgierd Hryniewicz, Olga Kamińska, Gennaro Vessio, Natalia Díaz-Rodríguez    
 > **Published in:** *Inf Sci*, 2022  
 > 
 > **Summary:** PLENARY is an explainable AI approach that uses fuzzy linguistic summaries to translate model explanations into natural language, making predictive model outputs more understandable.
@@ -34,7 +34,7 @@ For a complete list, please visit my [Google Scholar profile](https://scholar.go
 > 
 > <img src="/images/mlops.png" alt="MLOPs Image" style="height:200px; width:auto;">
 > 
-> **Authors:** Matteo Testi et al.    
+> **Authors:** Matteo Testi, Matteo Ballabio, Emanuele Frontoni, Giulio Iannello, Sara Moccia, Paolo Soda, Gennaro Vessio  
 > **Published in:** *IEEE Access*, 2022  
 > 
 > **Summary:** This paper reviews MLOps literature, proposes a taxonomy, and introduces a ten-step pipeline to streamline ML deployment in industry, aiming to standardize practices for effective ML adoption.
@@ -124,3 +124,30 @@ For a complete list, please visit my [Google Scholar profile](https://scholar.go
 > 
 > <a href="https://link.springer.com/article/10.1007/s11517-023-02831-0" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 > <a href="https://figshare.com/collections/Forecasting_and_What-If_Analysis_of_New_Positive_COVID-19_Cases_during_the_First_Three_Waves_in_Italy_Results_and_Code_/6299382/1" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+
+<a name="misc"></a>
+## 🌐 Miscellaneous
+---
+
+> **Pathways to success: a machine learning approach to predicting investor dynamics in equity and lending crowdfunding campaigns**
+> 
+> <img src="/images/crowdfunding.png" alt="Crowdfunding Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Rosa Porro, Thomas Ercole, Giuseppe Pipitò, Gennaro Vessio, Corrado Loglisci  
+> **Published in:** *J Intell Inf Syst*, 2024  
+> 
+> **Summary:** This paper analyzes investor behavior in Italian crowdfunding, using ML models to predict campaign success and introducing new datasets and metrics. The insights aim to enhance campaign strategies and platform decision-making.
+> 
+> <a href="https://link.springer.com/article/10.1007/s10844-024-00883-8" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
+
+> **ROULETTE: A neural attention multi-output model for explainable Network Intrusion Detection**
+> 
+> <img src="/images/roulette.jpg" alt="ROULETTE Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Giuseppina Andresini, Annalisa Appice, Francesco Paolo Caforio, Donato Malerba, Gennaro Vessio  
+> **Published in:** *ESWA*, 2022  
+> 
+> **Summary:** ROULETTE is an explainable neural model for network intrusion detection, using attention and multi-output learning to improve accuracy and interpretability. Tested on NSL-KDD and UNSW-NB15 datasets, it effectively classifies network traffic data.
+> 
+> <a href="https://www.sciencedirect.com/science/article/pii/S0957417422005395" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
+> <a href="https://github.com/gsndr/ROULETTE" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
