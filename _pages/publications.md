@@ -19,11 +19,10 @@ Here is a selection of my publications, organized by year. For a complete list, 
 
 ## 2024
 
-> **Pathways to success: a machine learning approach to predicting investor dynamics in equity and lending crowdfunding campaigns**
-> 
-> <span style="display:inline-block; padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.75em">Crowdfunding</span>
-> <span style="display:inline-block; padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.75em;">Finance</span>
-> <span style="display:inline-block; padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.75em;">Machine Learning</span>
+> **Pathways to success: a machine learning approach to predicting investor dynamics in equity and lending crowdfunding campaigns**  
+> <span style="display:inline-block; padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.85em">Crowdfunding</span>
+> <span style="display:inline-block; padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.85em;">Finance</span>
+> <span style="display:inline-block; padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.85em;">Machine Learning</span>
 > 
 > <img src="/images/crowdfunding.png" alt="Crowdfunding Image" style="height:200px; width:auto;">
 > 
@@ -32,7 +31,7 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > **Summary:** This paper analyzes investor behavior in Italian crowdfunding, using ML models to predict campaign success and introducing new datasets and metrics. The insights aim to enhance campaign strategies and platform decision-making.
 > 
-> <a href="https://link.springer.com/article/10.1007/s10844-024-00883-8" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
+> <a href="https://link.springer.com/article/10.1007/s10844-024-00883-8" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.85em;">Paper</a>
 
 > **Automated detection of Alzheimer's disease: a multi-modal approach with 3D MRI and amyloid PET**
 > 
