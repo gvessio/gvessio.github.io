@@ -55,10 +55,6 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > <span style="color:#6e7781;">#ComputerVision</span>
 > <span style="color:#6e7781;">#Drones</span>
 > 
-> <span style="color:#6e7781;">#Agriculture</span>
-> <span style="color:#6e7781;">#WeedMapping</span>
-> <span style="color:#6e7781;">#DroneImagery</span>
-> <span style="color:#6e7781;">#VisionTransformers</span>
 > <img src="/images/splitlawin.jpg" alt="SplitLawin Image" style="height:200px; width:auto;">
 > 
 > **Authors:** Giovanna Castellano, Pasquale De Marinis, Gennaro Vessio  
