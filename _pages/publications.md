@@ -19,8 +19,7 @@ Here is a selection of my publications, organized by year. For a complete list, 
 
 ## 2024
 
-> **Pathways to success: a machine learning approach to predicting investor dynamics in equity and lending crowdfunding campaigns**
->
+> **Pathways to success: a machine learning approach to predicting investor dynamics in equity and lending crowdfunding campaigns**  
 > <span style="color:#6e7781;">#Crowdfunding</span>
 > <span style="color:#6e7781;">#Finance</span>
 > <span style="color:#6e7781;">#MachineLearning</span>
