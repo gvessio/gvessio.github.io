@@ -21,9 +21,9 @@ Here is a selection of my publications, organized by year. For a complete list, 
 
 > **Pathways to success: a machine learning approach to predicting investor dynamics in equity and lending crowdfunding campaigns**
 >
-> <span style="display:inline-block; padding:4px 10px; background-color:#8a929b; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.85em">Crowdfunding</span>
-> <span style="display:inline-block; padding:4px 10px; background-color:#8a929b; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.85em;">Finance</span>
-> <span style="display:inline-block; padding:4px 10px; background-color:#8a929b; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.85em;">Machine Learning</span>
+> <span style="display:inline-block; padding:4px 10px; background-color:#8a929b; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.85em; box-shadow: 0px 1px 3px rgba(0,0,0,0.2); margin-right:4px; margin-top:4px;">Crowdfunding</span>
+> <span style="display:inline-block; padding:4px 10px; background-color:#8a929b; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.85em; box-shadow: 0px 1px 3px rgba(0,0,0,0.2); margin-right:4px; margin-top:4px;">Finance</span>
+> <span style="display:inline-block; padding:4px 10px; background-color:#8a929b; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.85em; box-shadow: 0px 1px 3px rgba(0,0,0,0.2); margin-right:4px; margin-top:4px;">Machine Learning</span>
 > 
 > <img src="/images/crowdfunding.png" alt="Crowdfunding Image" style="height:200px; width:auto;">
 > 
