@@ -20,9 +20,10 @@ Here is a selection of my publications, organized by year. For a complete list, 
 ## 2024
 
 > **Pathways to success: a machine learning approach to predicting investor dynamics in equity and lending crowdfunding campaigns**
-> <span style="display:inline-block; padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.6em">Crowdfunding</span>
-> <span style="display:inline-block; padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.6em;">Finance</span>
-> <span style="display:inline-block; padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.6em;">Machine Learning</span>
+> 
+> <span style="display:inline-block; padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.75em">Crowdfunding</span>
+> <span style="display:inline-block; padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.75em;">Finance</span>
+> <span style="display:inline-block; padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.75em;">Machine Learning</span>
 > 
 > <img src="/images/crowdfunding.png" alt="Crowdfunding Image" style="height:200px; width:auto;">
 > 
