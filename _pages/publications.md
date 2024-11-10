@@ -19,16 +19,16 @@ Here is a selection of my publications, organized by year. For a complete list, 
 
 ## 2024
 
-> **Pathways to success: a machine learning approach to predicting investor dynamics in equity and lending crowdfunding campaigns**  
+> **Pathways to success: a machine learning approach to predicting investor dynamics in equity and lending crowdfunding campaigns**
 >
-> <span style="color:#6e7781; font-weight:bold; margin-right:8px;">#Crowdfunding</span>
-> <span style="color:#6e7781; font-weight:bold; margin-right:8px;">#Finance</span>
-> <span style="color:#6e7781; font-weight:bold;">#MachineLearning</span>
+> <span style="color:#6e7781;">#Crowdfunding</span>
+> <span style="color:#6e7781;">#Finance</span>
+> <span style="color:#6e7781;">#MachineLearning</span>
 > 
 > <img src="/images/crowdfunding.png" alt="Crowdfunding Image" style="height:200px; width:auto;">
 > 
 > **Authors:** Rosa Porro, Thomas Ercole, Giuseppe Pipitò, Gennaro Vessio, Corrado Loglisci  
-> **Published in:** *J Intell Inf Syst*, 2024  
+> **Published in:** *J Intell Inf Syst*, 2024
 > 
 > **Summary:** This paper analyzes investor behavior in Italian crowdfunding, using ML models to predict campaign success and introducing new datasets and metrics. The insights aim to enhance campaign strategies and platform decision-making.
 > 
