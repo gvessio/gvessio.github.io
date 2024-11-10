@@ -7,16 +7,30 @@ author_profile: true
 
 Here is a selection of my publications, organized by research area:
 
-- [🧠 General](#general)
+<div id="filters">
+  <button class="filter-btn" data-filter="all">Show All</button>
+  <button class="filter-btn" data-filter="deep-learning">🧠 Deep Learning</button>
+  <button class="filter-btn" data-filter="explainability">🔍 Explainability</button>
+  <button class="filter-btn" data-filter="mlops">🚀 MLOps</button>
+  <button class="filter-btn" data-filter="digital-humanities">🎨 Digital Humanities</button>
+  <button class="filter-btn" data-filter="drone-vision">🚁 Drone Vision</button>
+  <button class="filter-btn" data-filter="e-health">🏥 e-Health</button>
+</div>
+
+<!-- - [🧠 General](#general)
 - [🎨 Digital Humanities](#digital-humanities)
 - [🚁 Drone Vision](#drone-vision)
 - [🏥 e-Health](#e-health)
-- [🌐 Miscellaneous](#misc)
+- [🌐 Miscellaneous](#misc) -->
 
 For a complete list, please visit my [Google Scholar profile](https://scholar.google.it/citations?user=KyQe9EgAAAAJ&hl).
 
 <a name="general"></a>
 ## 🧠 General
+
+<div class="publications">
+
+<div class="publication" data-topic="explainability">
 
 > **PLENARY: Explaining black-box models in natural language through fuzzy linguistic summaries**
 > 
@@ -29,6 +43,8 @@ For a complete list, please visit my [Google Scholar profile](https://scholar.go
 > 
 > <a href="https://www.sciencedirect.com/science/article/pii/S0020025522011318" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 > <a href="https://github.com/ITPsychiatry/plenary" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+
+</div>
 
 > **MLOps: A Taxonomy and a Methodology**
 > 
@@ -45,6 +61,8 @@ For a complete list, please visit my [Google Scholar profile](https://scholar.go
 ## 🎨 Digital Humanities
 ---
 
+<div class="publication" data-topic="digital-humanities deep-learning">
+
 > **A Deep Learning Approach to Clustering Visual Arts**
 > 
 > <img src="/images/delius.jpg" alt="DELIUS Image" style="height:200px; width:auto;">
@@ -56,6 +74,8 @@ For a complete list, please visit my [Google Scholar profile](https://scholar.go
 > 
 > <a href="https://link.springer.com/article/10.1007/s11263-022-01664-y" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 > <a href="https://github.com/gvessio/deep-clustering-art" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+
+</div>
 
 > **Leveraging Knowledge Graphs and Deep Learning for automatic art analysis**
 > 
@@ -151,3 +171,18 @@ For a complete list, please visit my [Google Scholar profile](https://scholar.go
 > 
 > <a href="https://www.sciencedirect.com/science/article/pii/S0957417422005395" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 > <a href="https://github.com/gsndr/ROULETTE" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+
+<script>
+document.querySelectorAll('.filter-btn').forEach(button => {
+  button.addEventListener('click', () => {
+    const filter = button.getAttribute('data-filter');
+    document.querySelectorAll('.publication').forEach(pub => {
+      if (filter === 'all' || pub.getAttribute('data-topic').includes(filter)) {
+        pub.style.display = 'block'; // Show publication
+      } else {
+        pub.style.display = 'none'; // Hide publication
+      }
+    });
+  });
+});
+</script>
