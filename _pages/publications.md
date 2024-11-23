@@ -42,6 +42,17 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > <a href="https://www.nature.com/articles/s41598-024-56001-9" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 > <a href="https://github.com/montanarograziano/Multimodal-approach-for-AD" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
 
+> **Explainable offline automatic signature verifier to support forensic handwriting examiners**  
+> 
+> <img src="/images/offline_verifier.png" alt="Offline Verifier Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Moises Diaz, Miguel A. Ferrer, Gennaro Vessio  
+> **Published in:** *Neural Comput Appl*, 2024  
+> 
+> **Summary:** We propose an explainable offline signature verifier using a universal background model and distance measures for interpretable decisions. It achieves competitive performance on public datasets, aiding forensic and legal applications.
+> 
+> <a href="https://link.springer.com/article/10.1007/s00521-023-09192-7" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
+
 ## 2023
 
 > **Weed mapping in multispectral drone imagery using lightweight vision transformers**  
