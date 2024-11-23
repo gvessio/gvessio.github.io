@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-👋 ***Welcome!*** I am an ***Assistant Professor (tenure-track)*** at the Department of Computer Science, University of Bari Aldo Moro, where I specialize in ***machine learning***, ***deep learning***, and ***computer vision***, with applications in fields like ***e-health***, ***drone vision***, and ***digital humanities***. During the workday, if you don't spot me with my legs stretched out in my office on the sixth floor, I'm probably down in the [CILAB lab](https://sites.google.com/site/cilabuniba/home) on the fourth floor, where the real magic happens—or possibly in Professor [Giovanna Castellano](https://sites.google.com/site/cilabuniba/people/giovanna-castellano)'s office, stealing her *taralli* (a classic Italian snack 🥨) and handing them out to anyone who crosses my path!
+👋 ***Welcome!*** I am an ***Assistant Professor (tenure-track)*** at the Department of Computer Science, University of Bari Aldo Moro, where I specialize in ***machine learning***, ***deep learning***, and ***computer vision***, with applications in fields like ***e-health***, ***drone vision***, and ***digital humanities***. During the workday, if you don't spot me with my legs stretched out in my office on the sixth floor, I'm probably down in the [CILAB lab](https://sites.google.com/site/cilabuniba/home) on the fourth floor, where the real magic happens—or possibly in Professor [Giovanna Castellano](https://sites.google.com/site/cilabuniba/people/giovanna-castellano)'s office, stealing her *taralli* (a classic Italian snack) and handing them out to anyone who crosses my path!
 
 With a *Ph.D. in Computer Science and Mathematics*, I'm deeply involved in advancing research, leading and contributing to diverse projects, including a recently concluded European initiative focused on computational methods for cultural heritage. I'm an Editorial Board member of the *International Journal of Intelligent Systems* and regularly organize scientific events. My role also involves mentoring Ph.D. students, reviewing for top-tier venues, and serving on program committees for several conferences. I'm also a member of *IEEE* and other scientific communities.
 
 ## 🚀 Current Research Projects
 
-> ***🔔 Exciting News!***  
-> A new collaboration with the Italian Ministry of Transport is about to take flight! I'll be leading a project focused on using drones to enhance roadside assistance, aiming to revolutionize emergency response on the road. Stay tuned for updates!
+> 🔔 ***Exciting News!***  
+> A new collaboration with the Italian Ministry of Infrastructure and Sustainable Mobility has begun! I am leading a project focused on using drones to enhance roadside assistance, aiming to revolutionize emergency response on the road. Stay tuned for updates!
 
 ## 📚 Current Teaching
 Teaching is a big part of what I do! Here are my current courses:

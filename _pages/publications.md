@@ -20,9 +20,6 @@ Here is a selection of my publications, organized by year. For a complete list, 
 ## 2024
 
 > **Pathways to success: a machine learning approach to predicting investor dynamics in equity and lending crowdfunding campaigns**  
-> <span style="color:#6e7781;">#Crowdfunding</span>
-> <span style="color:#6e7781;">#Finance</span>
-> <span style="color:#6e7781;">#MachineLearning</span>
 > 
 > <img src="/images/crowdfunding.png" alt="Crowdfunding Image" style="height:200px; width:auto;">
 > 
@@ -34,9 +31,6 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > <a href="https://link.springer.com/article/10.1007/s10844-024-00883-8" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
 
 > **Automated detection of Alzheimer's disease: a multi-modal approach with 3D MRI and amyloid PET**  
-> <span style="color:#6e7781;">#AlzheimersDisease</span>
-> <span style="color:#6e7781;">#DeepLearning</span>
-> <span style="color:#6e7781;">#MedicalImaging</span>
 > 
 > <img src="/images/scirep.png" alt="SciRep Image" style="height:200px; width:auto;">
 > 
@@ -51,9 +45,6 @@ Here is a selection of my publications, organized by year. For a complete list, 
 ## 2023
 
 > **Weed mapping in multispectral drone imagery using lightweight vision transformers**  
-> <span style="color:#6e7781;">#Agriculture</span>
-> <span style="color:#6e7781;">#ComputerVision</span>
-> <span style="color:#6e7781;">#Drones</span>
 > 
 > <img src="/images/splitlawin.jpg" alt="SplitLawin Image" style="height:200px; width:auto;">
 > 
@@ -66,9 +57,6 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > <a href="https://github.com/pasqualedem/LWViTs-for-weedmapping" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
 
 > **Forecasting and what-if analysis of new positive COVID-19 cases during the first three waves in Italy**  
-> <span style="color:#6e7781;">#COVID</span>
-> <span style="color:#6e7781;">#Forecasting</span>
-> <span style="color:#6e7781;">#MachineLearning</span>
 > 
 > <img src="/images/mbec.png" alt="MBEC Image" style="height:200px; width:auto;">
 > 
@@ -81,9 +69,6 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > <a href="https://figshare.com/collections/Forecasting_and_What-If_Analysis_of_New_Positive_COVID-19_Cases_during_the_First_Three_Waves_in_Italy_Results_and_Code_/6299382/1" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
 
 > **Density-based clustering with fully-convolutional networks for crowd flow detection from drones**  
-> <span style="color:#6e7781;">#ComputerVision</span>
-> <span style="color:#6e7781;">#CrowdAnalysis</span>
-> <span style="color:#6e7781;">#Drones</span>
 > 
 > <img src="/images/neurocom.jpg" alt="Density Image" style="height:200px; width:auto;">
 > 
