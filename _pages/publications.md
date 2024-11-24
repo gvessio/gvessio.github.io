@@ -90,7 +90,7 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > **Summary:** This paper proposes a drone-based crowd flow detection method using a fully-convolutional network to cluster and track crowd movements in video sequences. Tested on the VisDrone datasets, this approach effectively analyzes crowd behavior, opening new possibilities for high-level crowd monitoring from drones.
 > 
-> <a href="https://arxiv.org/abs/2301.04937" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+> <a href="https://www.sciencedirect.com/science/article/pii/S0925231223000681" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
 > <a href="https://github.com/evgenivs/crowd_flow_detection_drones" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Code</a>
 
 ## 2022
@@ -147,7 +147,7 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > <img src="/images/roulette.jpg" alt="ROULETTE Image" style="height:200px; width:auto;">
 > 
-> **Authors:** Giuseppina Andresini, Annalisa Appice, Francesco Paolo Caforio, Donato Malerba, Gennaro Vessio  
+> **Authors:** Giuseppina Andresini, Annalisa Appice, Francesco P. Caforio, Donato Malerba, Gennaro Vessio  
 > **Published in:** *ESWA*, 2022  
 > 
 > **Summary:** ROULETTE is an explainable neural model for network intrusion detection, using attention and multi-output learning to improve accuracy and interpretability. Tested on NSL-KDD and UNSW-NB15 datasets, it effectively classifies network traffic data.
@@ -213,3 +213,29 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > **Summary:** This paper introduces a framework using deep CNNs and graph analysis to uncover painting similarities and artist influences. The unsupervised method performs well on artist datasets, ideal for cases with limited metadata.
 > 
 > <a href="https://link.springer.com/article/10.1007/s11042-020-09995-z" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+
+## 2020
+---
+
+> **Ensembling complex network ‘perspectives’ for mild cognitive impairment detection with artificial neural networks**
+> 
+> <img src="/images/tractography.jpg" alt="Tractography Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Eufemia Lella, Gennaro Vessio  
+> **Published in:** *Pattern Recognit Lett*, 2020  
+> 
+> **Summary:** This study combines brain network measures from DWI with neural networks to detect mild cognitive impairment, showing promise for early diagnosis on benchmark data.
+> 
+> <a href="https://www.sciencedirect.com/science/article/pii/S0167865520302130" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+
+> **Crowd Detection in Aerial Images Using Spatial Graphs and Fully-Convolutional Neural Networks**
+> 
+> <img src="/images/crowd.jpg" alt="Crowd Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Giovanna Castellano, Ciro Castiello, Corrado Mencar, Gennaro Vessio  
+> **Published in:** *IEEE Access*, 2020  
+> 
+> **Summary:** This paper introduces a lightweight fully-convolutional neural network for real-time crowd detection on drones to enable safe landings in populated areas. The model combines classification with regression using spatial graph clustering, producing class activation heatmaps for enhanced flight maps.
+> 
+> <a href="https://ieeexplore.ieee.org/abstract/document/9052702" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+> <a href="https://github.com/gvessio/uav-crowd-detection" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Code</a>
