@@ -154,3 +154,62 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > <a href="https://www.sciencedirect.com/science/article/pii/S0957417422005395" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
 > <a href="https://github.com/gsndr/ROULETTE" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Code</a>
+
+## 2021
+---
+
+> **An easy-to-explain decision support framework for forensic analysis of dynamic signatures**
+> 
+> <img src="/images/signatures.jpg" alt="Signature Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Daniela Mazzolini, Paolo Mignone, Patrizia Pavan, Gennaro Vessio  
+> **Published in:** *Forens Sci Int-Digit*, 2021  
+> 
+> **Summary:** This paper proposes a semi-automatic, explainable tool for forensic signature verification using Dynamic Time Warping on simple dynamic features. Tested on a new dataset, it enhances reproducibility and addresses challenges with disguised signatures.
+> 
+> <a href="https://www.sciencedirect.com/science/article/abs/pii/S2666281721001244" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+> <a href="https://zenodo.org/records/4574504#.YD833WhKjIV" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Dataset</a>
+
+> **Deep learning approaches to pattern extraction and recognition in paintings and drawings: an overview**  
+> 
+> <img src="/images/visual_art.png" alt="Visual Art Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Giovanna Castellano, Gennaro Vessio  
+> **Published in:** *Neural Comput Appl*, 2021  
+> 
+> **Summary:** In this paper, we review key deep learning methods for pattern recognition in paintings and drawings, leveraging advances in computer vision and large art datasets to aid art analysis. These tools aim to deepen understanding and accessibility of visual arts, promoting cultural dissemination.
+> 
+> <a href="https://link.springer.com/article/10.1007/s00521-021-05893-z" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+
+> **Sequence-based dynamic handwriting analysis for Parkinson’s disease detection with one-dimensional convolutions and BiGRUs**  
+> 
+> <img src="/images/spiral.jpg" alt="Spiral Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Moises Diaz, Momina Moetesum, Imran Siddiqi, Gennaro Vessio  
+> **Published in:** *ESWA*, 2021  
+> 
+> **Summary:** This paper presents a novel model combining 1D convolutions and BiGRUs to classify Parkinson's disease from handwriting sequences. Tested on the PaHaW and NewHandPD datasets, it outperformed state-of-the-art approaches.
+> 
+> <a href="https://www.sciencedirect.com/science/article/pii/S0957417420310757" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+
+> **MicroRNA expression classification for pediatric multiple sclerosis identification**  
+> 
+> <img src="/images/mirnas.png" alt="MicroRNA Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Gabriella Casalino, Giovanna Castellano, Arianna Consiglio, Nicoletta Nuzziello, Gennaro Vessio  
+> **Published in:** *J Ambient Intell Humaniz Comput*, 2021  
+> 
+> **Summary:** This study explores machine learning methods for distinguishing pediatric MS from healthy children and ADHD patients using miRNA expression profiles. A neural network with automated feature selection outperformed expert-selected features, showing promise for early MS diagnosis and uncovering potential molecular pathways.
+> 
+> <a href="https://link.springer.com/article/10.1007/s12652-021-03091-2" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+
+> **Visual link retrieval and knowledge discovery in painting datasets**  
+> 
+> <img src="/images/graph.png" alt="Artistic Graph Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Giovanna Castellano, Eufemia Lella, Gennaro Vessio  
+> **Published in:** *Multim Tools Appl*, 2021  
+> 
+> **Summary:** This paper introduces a framework using deep CNNs and graph analysis to uncover painting similarities and artist influences. The unsupervised method performs well on artist datasets, ideal for cases with limited metadata.
+> 
+> <a href="https://link.springer.com/article/10.1007/s11042-020-09995-z" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
