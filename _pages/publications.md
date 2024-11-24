@@ -250,13 +250,13 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > **Authors:** Moises Diaz, Miguel A. Ferrer, Donato Impedovo, Giuseppe Pirlo, Gennaro Vessio  
 > **Published in:** *Pattern Recognit Lett*, 2019  
 > 
-> **Summary:** This paper proposes a novel representation of handwriting for Parkinson's disease diagnosis by combining static and dynamic features into "dynamically enhanced" static images. Tested on the PaHaW dataset, the approach uses transfer learning and ensemble classifiers, outperforming methods based on static or dynamic handwriting alone.
+> **Summary:** This paper proposes a novel representation of handwriting for Parkinson's disease diagnosis by combining static and dynamic features into "dynamically enhanced" static images. Tested on the PaHaW dataset, the approach uses transfer learning and an ensemble classifier, outperforming methods based on static or dynamic handwriting alone.
 > 
 > <a href="https://www.sciencedirect.com/science/article/pii/S0167865518307013" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
 
 > **A Handwriting-Based Protocol for Assessing Neurodegenerative Dementia**
 > 
-> <img src="/images/boxplots.jpg" alt="Boxplots Image" style="height:200px; width:auto;">
+> <img src="/images/boxplots.png" alt="Boxplots Image" style="height:200px; width:auto;">
 > 
 > **Authors:** Donato Impedovo, Giuseppe Pirlo, Gennaro Vessio, Maria T. Angelillo  
 > **Published in:** *Cogn Comput*, 2019  
