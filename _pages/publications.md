@@ -217,7 +217,7 @@ Here is a selection of my publications, organized by year. For a complete list, 
 ## 2020
 ---
 
-> **Ensembling complex network ‘perspectives’ for mild cognitive impairment detection with artificial neural networks**
+> **Ensembling complex network 'perspectives' for mild cognitive impairment detection with artificial neural networks**
 > 
 > <img src="/images/tractography.jpg" alt="Tractography Image" style="height:200px; width:auto;">
 > 
@@ -239,3 +239,39 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > <a href="https://ieeexplore.ieee.org/abstract/document/9052702" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
 > <a href="https://github.com/gvessio/uav-crowd-detection" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Code</a>
+
+## 2019
+---
+
+> **Dynamically enhanced static handwriting representation for Parkinson's disease detection**
+> 
+> <img src="/images/ensemble.jpg" alt="Ensemble Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Moises Diaz, Miguel A. Ferrer, Donato Impedovo, Giuseppe Pirlo, Gennaro Vessio  
+> **Published in:** *Pattern Recognit Lett*, 2019  
+> 
+> **Summary:** This paper proposes a novel representation of handwriting for Parkinson's disease diagnosis by combining static and dynamic features into "dynamically enhanced" static images. Tested on the PaHaW dataset, the approach uses transfer learning and ensemble classifiers, outperforming methods based on static or dynamic handwriting alone.
+> 
+> <a href="https://www.sciencedirect.com/science/article/pii/S0167865518307013" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+
+> **A Handwriting-Based Protocol for Assessing Neurodegenerative Dementia**
+> 
+> <img src="/images/boxplots.jpg" alt="Boxplots Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Donato Impedovo, Giuseppe Pirlo, Gennaro Vessio, Maria T. Angelillo  
+> **Published in:** *Cogn Comput*, 2019  
+> 
+> **Summary:** This study proposes a modular handwriting-based protocol combining drawing tasks with digitized cognitive tests to assess neurodegenerative dementia. Tested on over 100 elderly subjects, it aims to link cognitive functions with handwriting dynamics, offering a non-invasive tool for screening and monitoring dementia.
+> 
+> <a href="https://link.springer.com/article/10.1007/s12559-019-09642-2" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+
+> **Attentional Pattern Classification for Automatic Dementia Detection**
+> 
+> <img src="/images/matrices.png" alt="Matrices Image" style="height:200px; width:auto;">
+> 
+> **Authors:** Maria T. Angelillo, Fabrizio Balducci, Donato Impedovo, Giuseppe Pirlo, Gennaro Vessio  
+> **Published in:** *IEEE Access*, 2019  
+> 
+> **Summary:** This study introduces a tablet-based attentional matrices test for dementia detection using handwriting dynamics. Machine learning achieved 87.3% AUC and 86.1% sensitivity, offering a cost-effective tool for mass screening.
+> 
+> <a href="https://ieeexplore.ieee.org/abstract/document/8701636" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
