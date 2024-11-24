@@ -41,8 +41,8 @@ Teaching is a big part of what I do! Here are my current courses:
 > 
 > **Summary:** Art2Mus generates music from complex digitized artworks or text, overcoming the limitations of current image-to-music models that are restricted to simple images. This innovation opens up new possibilities for multimedia art, interactive installations, and AI-powered creative tools.
 > 
-> <a href="https://arxiv.org/abs/2410.04906" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
-> <a href="https://github.com/justivanr/art2mus_" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+> <a href="https://arxiv.org/abs/2410.04906" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+> <a href="https://github.com/justivanr/art2mus_" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Code</a>
 
 > **RoWeeder: Unsupervised Weed Mapping through Crop-Row Detection**
 > 
@@ -53,5 +53,5 @@ Teaching is a big part of what I do! Here are my current courses:
 > 
 > **Summary:** RoWeeder is an unsupervised framework for weed mapping in precision agriculture, using crop-row detection to train a deep learning model that distinguishes crops from weeds. It enables real-time, drone-based weed management across large fields.
 > 
-> <a href="https://arxiv.org/abs/2410.04983" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
-> <a href="https://github.com/pasqualedem/RoWeeder" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+> <a href="https://arxiv.org/abs/2410.04983" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+> <a href="https://github.com/pasqualedem/RoWeeder" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Code</a>

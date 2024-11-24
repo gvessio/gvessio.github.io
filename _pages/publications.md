@@ -18,6 +18,7 @@ Here is a selection of my publications, organized by year. For a complete list, 
 ## 🧠 General -->
 
 ## 2024
+---
 
 > **Pathways to success: a machine learning approach to predicting investor dynamics in equity and lending crowdfunding campaigns**  
 > 
@@ -28,7 +29,7 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > **Summary:** This paper analyzes investor behavior in Italian crowdfunding, using ML models to predict campaign success and introducing new datasets and metrics. The insights aim to enhance campaign strategies and platform decision-making.
 > 
-> <a href="https://link.springer.com/article/10.1007/s10844-024-00883-8" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
+> <a href="https://link.springer.com/article/10.1007/s10844-024-00883-8" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
 
 > **Automated detection of Alzheimer's disease: a multi-modal approach with 3D MRI and amyloid PET**  
 > 
@@ -39,8 +40,8 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > **Summary:** We present a multi-modal deep learning approach for Alzheimer's diagnosis, combining 3D MRI and amyloid PET scans to outperform single-modality models. Achieving top results on the OASIS-3 cohort, the model also highlights key brain regions linked to AD, aiding disease understanding.
 > 
-> <a href="https://www.nature.com/articles/s41598-024-56001-9" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
-> <a href="https://github.com/montanarograziano/Multimodal-approach-for-AD" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+> <a href="https://www.nature.com/articles/s41598-024-56001-9" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+> <a href="https://github.com/montanarograziano/Multimodal-approach-for-AD" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Code</a>
 
 > **Explainable offline automatic signature verifier to support forensic handwriting examiners**  
 > 
@@ -51,9 +52,10 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > **Summary:** We propose an explainable offline signature verifier using a universal background model and distance measures for interpretable decisions. It achieves competitive performance on public datasets, aiding forensic and legal applications.
 > 
-> <a href="https://link.springer.com/article/10.1007/s00521-023-09192-7" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
+> <a href="https://link.springer.com/article/10.1007/s00521-023-09192-7" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
 
 ## 2023
+---
 
 > **Weed mapping in multispectral drone imagery using lightweight vision transformers**  
 > 
@@ -64,8 +66,8 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > **Summary:** This paper introduces a lightweight Vision Transformer for weed mapping in agriculture, using multispectral drone images to accurately segment crops and weeds, enhancing treatment prioritization and crop yield.
 > 
-> <a href="https://www.sciencedirect.com/science/article/pii/S0925231223010378" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
-> <a href="https://github.com/pasqualedem/LWViTs-for-weedmapping" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+> <a href="https://www.sciencedirect.com/science/article/pii/S0925231223010378" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+> <a href="https://github.com/pasqualedem/LWViTs-for-weedmapping" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Code</a>
 
 > **Forecasting and what-if analysis of new positive COVID-19 cases during the first three waves in Italy**  
 > 
@@ -76,8 +78,8 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > **Summary:** This study combines epidemiological, mobility, and restriction data with machine learning to predict COVID-19 cases in Italy during the first three pandemic waves. The model accurately forecasts new cases, achieving a WAPE of 5.75% nationally, and supports what-if analyses, suggesting targeted restrictions are more effective than total lockdowns.
 > 
-> <a href="https://link.springer.com/article/10.1007/s11517-023-02831-0" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
-> <a href="https://figshare.com/collections/Forecasting_and_What-If_Analysis_of_New_Positive_COVID-19_Cases_during_the_First_Three_Waves_in_Italy_Results_and_Code_/6299382/1" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+> <a href="https://link.springer.com/article/10.1007/s11517-023-02831-0" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+> <a href="https://figshare.com/collections/Forecasting_and_What-If_Analysis_of_New_Positive_COVID-19_Cases_during_the_First_Three_Waves_in_Italy_Results_and_Code_/6299382/1" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Code</a>
 
 > **Density-based clustering with fully-convolutional networks for crowd flow detection from drones**  
 > 
@@ -88,10 +90,11 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > **Summary:** This paper proposes a drone-based crowd flow detection method using a fully-convolutional network to cluster and track crowd movements in video sequences. Tested on the VisDrone datasets, this approach effectively analyzes crowd behavior, opening new possibilities for high-level crowd monitoring from drones.
 > 
-> <a href="https://arxiv.org/abs/2301.04937" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
-> <a href="https://github.com/evgenivs/crowd_flow_detection_drones" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+> <a href="https://arxiv.org/abs/2301.04937" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+> <a href="https://github.com/evgenivs/crowd_flow_detection_drones" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Code</a>
 
 ## 2022
+---
 
 > **PLENARY: Explaining black-box models in natural language through fuzzy linguistic summaries**
 > 
@@ -102,8 +105,8 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > **Summary:** PLENARY is an explainable AI approach that uses fuzzy linguistic summaries to translate model explanations into natural language, making predictive model outputs more understandable.
 > 
-> <a href="https://www.sciencedirect.com/science/article/pii/S0020025522011318" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
-> <a href="https://github.com/ITPsychiatry/plenary" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+> <a href="https://www.sciencedirect.com/science/article/pii/S0020025522011318" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+> <a href="https://github.com/ITPsychiatry/plenary" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Code</a>
 
 > **A Deep Learning Approach to Clustering Visual Arts**
 > 
@@ -114,8 +117,8 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > **Summary:** We propose a deep learning-based approach for clustering artworks. It uses a pre-trained convolutional network to extract features and a deep embedded clustering model to map these features into clusters. This method effectively identifies patterns in visual art, aiding tasks like visual link retrieval and historical knowledge discovery in painting datasets.
 > 
-> <a href="https://link.springer.com/article/10.1007/s11263-022-01664-y" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
-> <a href="https://github.com/gvessio/deep-clustering-art" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+> <a href="https://link.springer.com/article/10.1007/s11263-022-01664-y" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+> <a href="https://github.com/gvessio/deep-clustering-art" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Code</a>
 
 > **MLOps: A Taxonomy and a Methodology**
 > 
@@ -126,7 +129,7 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > **Summary:** This paper reviews MLOps literature, proposes a taxonomy, and introduces a ten-step pipeline to streamline ML deployment in industry, aiming to standardize practices for effective ML adoption.
 > 
-> <a href="https://ieeexplore.ieee.org/document/9792270" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
+> <a href="https://ieeexplore.ieee.org/document/9792270" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
 
 > **Leveraging Knowledge Graphs and Deep Learning for automatic art analysis**
 > 
@@ -137,8 +140,8 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > **Summary:** We present ArtGraph, a knowledge graph that enriches fine art analysis by linking data from WikiArt and DBpedia. It supports knowledge discovery and enables a new method for fine art classification, where ArtGraph embeddings enhance deep learning models, bridging Humanities and Computer Science.
 > 
-> <a href="https://www.sciencedirect.com/science/article/pii/S0950705122004105" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
-> <a href="https://zenodo.org/records/6337958" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Dataset & Code</a>
+> <a href="https://www.sciencedirect.com/science/article/pii/S0950705122004105" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+> <a href="https://zenodo.org/records/6337958" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Dataset & Code</a>
 
 > **ROULETTE: A neural attention multi-output model for explainable Network Intrusion Detection**
 > 
@@ -149,5 +152,5 @@ Here is a selection of my publications, organized by year. For a complete list, 
 > 
 > **Summary:** ROULETTE is an explainable neural model for network intrusion detection, using attention and multi-output learning to improve accuracy and interpretability. Tested on NSL-KDD and UNSW-NB15 datasets, it effectively classifies network traffic data.
 > 
-> <a href="https://www.sciencedirect.com/science/article/pii/S0957417422005395" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Paper</a>
-> <a href="https://github.com/gsndr/ROULETTE" style="padding:6px 12px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Code</a>
+> <a href="https://www.sciencedirect.com/science/article/pii/S0957417422005395" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Paper</a>
+> <a href="https://github.com/gsndr/ROULETTE" style="padding:3px 8px; background-color:#6e7781; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:0.9em;">Code</a>
